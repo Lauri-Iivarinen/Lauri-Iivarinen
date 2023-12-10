@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lauri</h1>
 <h3 align="center">A passionate full-stack developer eager to learn more skills</h3>
 
-- 🌱 I’m currently planning to learn **next.js, c++ and Unreal**
+- 🍀 I’m currently planning to learn **next.js, c++ and Unreal**
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://iivarinen-lauri-8db9db2f7a51.herokuapp.com/)
 
