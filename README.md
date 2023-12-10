@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently planning to learn **next.js, c++ and Unreal**
 
-- 👨‍💻 All of my projects are available at [https://iivarinen-lauri-8db9db2f7a51.herokuapp.com/](https://iivarinen-lauri-8db9db2f7a51.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://iivarinen-lauri-8db9db2f7a51.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
