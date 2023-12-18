@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lauri</h1>
 <h3 align="center">A passionate full-stack developer eager to learn more skills</h3>
 
-- 🍀 I’m currently planning to learn **Next.js, Laravel, C# and Unity**
+- 📖 Currently learning **C# and Unity** in my free time
+
+- 🍀 I’m planning to learn **Next.js and Laravel**
   
 - 📫 I’m currently looking for an internship, you cant contact me via email ```lauri.iivarinen@gmail.com```
 
