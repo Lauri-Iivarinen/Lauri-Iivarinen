@@ -5,7 +5,7 @@
 
 - 🍀 I’m planning to learn **Next.js and Laravel**
   
-- 📫 I’m currently looking for an internship, you can contact me via email ```lauri.iivarinen@gmail.com```
+- 📫 I’m currently looking for a junior position, you can contact me via email ```lauri.iivarinen@gmail.com```
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://iivarinen-lauri-8db9db2f7a51.herokuapp.com/)
 
