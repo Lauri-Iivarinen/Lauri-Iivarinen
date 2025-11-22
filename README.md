@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lauri</h1>
 <h3 align="center">A passionate full-stack developer eager to learn more skills</h3>
 
+- Working as a Technical Consultant for Finago Group, delivering e-invoicing integrations
+
 - 📖 Currently learning **C# and Unity** in my free time
 
 - 🍀 I’m planning to learn **Next.js and Laravel**
   
 - 📫 You can contact me via email ```lauri.iivarinen@gmail.com```
 
-- 👨‍💻 All of my projects are available at [My portfolio](https://iivarinen-lauri-8db9db2f7a51.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://iivarinen-lauri-8db9db2f7a51.herokuapp.com/) **Not up atm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
